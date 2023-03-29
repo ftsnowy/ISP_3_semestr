@@ -1,0 +1,40 @@
+is_global = true
+build_property.TargetFramework = net6.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = App
+build_property.ProjectDir = D:\BSUIR\C#\Lab1-2\App\App\
+
+[D:/BSUIR/C\#/Lab1-2/App/App/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = App.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/BSUIR/C\#/Lab1-2/App/App/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = App.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/BSUIR/C\#/Lab1-2/App/App/CalculatorPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = App.CalculatorPage.xaml
+build_metadata.AdditionalFiles.TargetPath = CalculatorPage.xaml
+build_metadata.AdditionalFiles.RelativePath = CalculatorPage.xaml
+
+[D:/BSUIR/C\#/Lab1-2/App/App/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = App.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/BSUIR/C\#/Lab1-2/App/App/ProgressBar.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = App.ProgressBar.xaml
+build_metadata.AdditionalFiles.TargetPath = ProgressBar.xaml
+build_metadata.AdditionalFiles.RelativePath = ProgressBar.xaml

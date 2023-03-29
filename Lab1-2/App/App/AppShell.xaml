@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="App.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:App"
+    Shell.FlyoutBehavior="Flyout">
+
+    <ShellContent
+        Title="Calculator"
+        ContentTemplate="{DataTemplate local:CalculatorPage}"
+        Route="CalculatorPage" />
+    <ShellContent
+        Title="ProgressBar"
+        ContentTemplate="{DataTemplate local:ProgressBarPage}"
+        Route="ProgressBarPage" />
+    
+</Shell>
